@@ -26,11 +26,11 @@ footer, header, hgroup, menu, nav, section {
 
 
 ::-webkit-scrollbar{
-	width: 0;
-	background:transparent;
+	width:auto;
+	background: #444;
 }
 html{
-	scrollbar-width: none;
+	scrollbar-width: auto;
 }
 
 
